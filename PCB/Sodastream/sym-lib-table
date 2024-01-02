@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Sodastream-rescue")(type "Legacy")(uri "${KIPRJMOD}/Sodastream-rescue.lib")(options "")(descr ""))
+)
