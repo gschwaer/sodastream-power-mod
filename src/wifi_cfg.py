@@ -1,0 +1,2 @@
+NETWORK_NAME = "Your WIFI SSID"
+NETWORK_PASS = "Your WIFI Password"
